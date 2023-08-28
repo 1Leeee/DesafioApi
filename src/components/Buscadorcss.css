@@ -1,0 +1,12 @@
+.personajes-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 20px;
+    padding: 5rem;
+}
+
+.personaje-card {
+    width: 25rem; /* Ancho de cada tarjeta (33.33% de ancho y 10px de margen entre ellas) */
+    margin-bottom: 20px;
+}
